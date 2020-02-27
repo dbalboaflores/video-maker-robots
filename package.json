@@ -1,0 +1,22 @@
+{
+  "name": "video-maker-robots",
+  "version": "1.0.0",
+  "description": "Open source project of 4 robots that makes automated videos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbalboaflores/video-maker-robots.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbalboaflores/video-maker-robots/issues"
+  },
+  "homepage": "https://github.com/dbalboaflores/video-maker-robots#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
