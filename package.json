@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dbalboaflores/video-maker-robots/issues"
   },
-  "homepage": "https://github.com/dbalboaflores/video-maker-robots#readme"
+  "homepage": "https://github.com/dbalboaflores/video-maker-robots#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
